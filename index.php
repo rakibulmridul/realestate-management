@@ -177,7 +177,7 @@ if(!$result){
           <span></span>
         </nav>
 
-      </div><!-- /slider-wrapper -->
+      </div>
 </div>
 
 
